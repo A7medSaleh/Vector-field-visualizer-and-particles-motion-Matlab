@@ -1,4 +1,4 @@
-# Vector-field-visualizer-and-particles-motion-Matlab
+# Slop and Vector field with particles motion simulation Matlab
 
  
 Get the code from here: 
