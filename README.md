@@ -2,7 +2,7 @@
 
  
 Get the code from here: 
-https://gumroad.com/l/GmFKw 
+https://gum.co/uAMUE
  
 Watch the code from here: 
 https://www.youtube.com/watch?v=65ofqJC5gcg
@@ -12,7 +12,7 @@ The code is implemented in a GUI (user friendly) to facilitate using the program
 
 Contact me: 
 email: s-ahmed.saleh@zewailcity.edu.eg 
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
 
  
 Hire me directly on freelancer: 
